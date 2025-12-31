@@ -23,15 +23,14 @@ Mi interés por la ciberseguridad no nació en un laboratorio académico, sino d
 - **[CTF Writeups](projects/ctf-writeups)**: Soluciones a retos de TryHackMe/HackTheBox.
 
 ## 🏆 Certificaciones y Logros
-- CompTIA Security+ | CEH | OSCP (en progreso)
+- Google Cybersecurity Professional Certificate Google (vía Coursera) | 30/12/2025
 - TryHackMe Top 5% | HackTheBox Hacker Rank
-- [Badges de Credly](enlace)
+- https://www.credly.com/badges/3de539da-c584-4dc4-8821-3ca28be6a579
 
 ## 📊 Estadísticas
 ![TryHackMe Stats](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/assets/thm_stats.svg)
 ![HackTheBox Badge](https://www.hackthebox.com/badge/image/tu_id)
 
 ## 📫 Contacto
-- LinkedIn: [enlace]
-- Email: tu@email.com
-- Blog: [enlace si tienes]
+- LinkedIn: www.linkedin.com/in/leonardo-rivera-5b21b713a
+- Email: leorivera5436@gmail.com
