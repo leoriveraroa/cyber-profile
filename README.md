@@ -28,7 +28,7 @@ Mi interés por la ciberseguridad no nació en un laboratorio académico, sino d
 - https://www.credly.com/badges/3de539da-c584-4dc4-8821-3ca28be6a579
 
 ## 📊 Estadísticas
-![TryHackMe Stats](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/assets/thm_stats.svg)
+![TryHackMe Stats](https://tryhackme.com/p/leoriveraroa)
 ![HackTheBox Badge](https://www.hackthebox.com/badge/image/tu_id)
 
 ## 📫 Contacto
