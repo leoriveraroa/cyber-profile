@@ -1,13 +1,12 @@
-# cyber-profile
+# Cyber-profile
 Colección de proyectos, scripts y documentación en pentesting, análisis de malware, forense digital y seguridad ofensiva/defensiva.
 # 🔐 Cybersecurity Analyst | Ethical Hacker
 
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/tu_usuario)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/tu_usuario)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://app.hackthebox.com/profile/tu_id)
 
 ## 👨‍💻 Sobre mí
-Breve descripción de tu enfoque en ciberseguridad (ej: "Especializado en pentesting web y análisis de malware").
+Mi interés por la ciberseguridad no nació en un laboratorio académico, sino de la observación directa de un ecosistema digital vulnerable. Al crecer en Venezuela, fui testigo de cómo la necesidad económica normalizó el uso de software sin licencia, creando una superficie de ataque masiva. Esta realidad me permitió comprender, desde una edad temprana, que la ciberseguridad es, ante todo, un problema humano y social.
 
 ## 🛠️ Habilidades Técnicas
 | Área | Herramientas/Tecnologías |
