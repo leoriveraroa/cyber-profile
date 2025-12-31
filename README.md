@@ -2,7 +2,7 @@
 Colección de proyectos, scripts y documentación en pentesting, análisis de malware, forense digital y seguridad ofensiva/defensiva.
 # 🔐 Cybersecurity Analyst | Ethical Hacker
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/tu_usuario)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](io(https://tryhackme.com/p/leoriveraroa))
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://app.hackthebox.com/profile/tu_id)
 
 ## 👨‍💻 Sobre mí
